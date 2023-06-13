@@ -12,7 +12,7 @@ Skill Highlights:
 
 - Created timelapse series of the Bogachiel River and active Undi Rd landslide with the Google Earth Engine Python API
 - Designed digital field maps with ArcGIS for data collection in Avenza Maps
-- Collaborated with cohort members and advisors in other geoscience focused projects
+- Collaborated with cohort members and advisors in other geoscience-focused projects
 
 
 ## Seismic Station Mapping
@@ -25,6 +25,6 @@ Skill Highlights:
 ## Surveying at Discovery Park in Seattle, WA
 Skill Highlights:
 
-- 
--
--
+- Collected and processed LiDAR data of the Magnilia Bluff with Riegl RiSCAN Pro
+- Conducted a sUAS survey of Discovery Park and produced a structure from motion model with Pix4D
+- Visualized and analyzed point cloud datasets in CloudCompare
