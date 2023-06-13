@@ -4,7 +4,7 @@ A collection of my GIS projects
 Highlights:
 
 ## Field Research at Undi Rd near Forks, WA
-Highlights
+Highlights:
 
 ## Seismic Station Mapping
 Highlights:
