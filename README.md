@@ -1,22 +1,22 @@
 # Projects Portfolio
 A collection of my GIS projects
 ## Coseismic Landslide Probability Modeling
-Highlights:<br />
+Highlights:..
 * 
 *
 *
 ## Field Research at Undi Rd near Forks, WA
-Highlights:<br />
+Highlights:..
 *
 *
 *
 ## Seismic Station Mapping
-Highlights:<br />
+Highlights:..
 *
 *
 *
 ## Surveying at Discovery Park in Seattle, WA
-Highlights:<br />
+Highlights:..
 *
 *
 *
