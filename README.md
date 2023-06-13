@@ -1,5 +1,5 @@
 # Projects Portfolio
-This repository presents collection of projects showcasing my experience and GIS skillsets
+This repository presents a collection of projects showcasing my experience and GIS skillsets
 ## Coseismic Landslide Probability Modeling
 Highlights:
 
