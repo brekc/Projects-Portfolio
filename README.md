@@ -1,7 +1,7 @@
 # Projects Portfolio
 A collection of my GIS projects
 ## Coseismic Landslide Probability Modeling
-Highlights\
+Highlights
 
 -
 -
