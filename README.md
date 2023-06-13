@@ -25,6 +25,6 @@ Skill Highlights:
 ## Surveying at Discovery Park in Seattle, WA
 Skill Highlights:
 
-- Collected and processed LiDAR data of the Magnilia Bluff with Riegl RiSCAN Pro
+- Collected and processed LiDAR data of the Magnolia Bluff with Riegl RiSCAN Pro
 - Conducted a sUAS survey of Discovery Park and produced a structure from motion model with Pix4D
 - Visualized and analyzed point cloud datasets in CloudCompare
