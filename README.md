@@ -1,12 +1,12 @@
 # Projects Portfolio
 A collection of my GIS projects
 ## Coseismic Landslide Probability Modeling
-Highlights: \n
+Highlights -
 -
 -
 -
 ## Field Research at Undi Rd near Forks, WA
-Highlights: \n
+Highlights:
 -
 -
 -
