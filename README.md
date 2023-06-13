@@ -1,7 +1,7 @@
 # Projects Portfolio
 This repository presents a collection of projects showcasing my experience and GIS skillsets
 ## Coseismic Landslide Probability Modeling
-<ins>Skill Highlights</ins>:
+Skill Highlights:
 
 - Wrote Python scripts for calculating coseismic landslide probability
 - Analyzed overlap between coseismic landslide probability models in QGIS
