@@ -25,20 +25,25 @@ While attending graduate school in the Master’s in Applied Geosciences program
 
 Skill Highlights:
 
-- Created timelapse series of the Bogachiel River and active Undi Rd landslide with the Google Earth Engine Python API
-- Designed digital field maps with ArcGIS for data collection in Avenza Maps
+- Created timelapse series of the Bogachiel River and active Undi Rd landslide with the Google Earth Engine Python API (Figure 3 & Figure 4)
+- Designed digital field maps with ArcGIS for data collection in Avenza Maps (Figure 5)
 - Assisted cohort members and advisors in other applied geoscience projects
 <p align="center">
   <img src="https://github.com/brekc/Projects-Portfolio/blob/main/Images/Landsat_ts_754.gif" />
 </p>
-
+<em>Figure 3: Timelapse series for Landsat imagery using a shortwave infrared band combination.</em>
+<p>
+</p>
 <p align="center">
   <img src="https://github.com/brekc/Projects-Portfolio/blob/main/Images/Sentinel2_ts_128A4.gif" />
 </p>
-
+<em>Figure 4: Timelapse series for Sentinel-2 imagery using a shortwave infrared band combination.</em>
+<p>
+</p>
 <p align="center">
   <img src="https://github.com/brekc/Projects-Portfolio/blob/main/Images/Undi_Rd_FieldMap.png" />
 </p>
+<em>Figure 5: Digital field map of the Undi Rd study with NAIP imagery overlaid by a low transparency LiDAR shaded relief layer.</em>
 
 ## Seismic Station Mapping
 At the Pacific Northwest Seismic Network, I worked on GIS projects to update and present seismic station maps. The GIS projects motivated me to learn effective practices for data management and geoprocessing automation.     
