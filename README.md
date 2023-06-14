@@ -18,7 +18,7 @@ Skill Highlights:
 <p align="center">
   <img src="https://github.com/brekc/Projects-Portfolio/blob/main/Images/CLS_Prob_Overlap.png" />
 </p>
-<em>Figure 2: Maps showing overlap between 30 coseismic landslide probability models for a 50% probability threshold.</em>
+<em>Figure 2: Maps showing the overlap between 30 coseismic landslide probability models for a 50% probability threshold.</em>
 
 ## Field Research at Undi Rd near Forks, WA
 While attending graduate school in the Master’s in Applied Geosciences program at the University of Washington, I collected field observations with members of my cohort at Undi Rd near Forks, WA. I also had the opportunity to assist with GIS-related needs for course projects and additional research in the Lower Bogachiel River Valley.           
@@ -43,7 +43,7 @@ Skill Highlights:
 <p align="center">
   <img src="https://github.com/brekc/Projects-Portfolio/blob/main/Images/Undi_Rd_FieldMap.png" />
 </p>
-<em>Figure 5: Digital field map of the Undi Rd study with NAIP imagery overlaid by a low transparency LiDAR shaded relief layer.</em>
+<em>Figure 5: Digital field map of the Undi Rd study area with NAIP imagery overlaid by a low transparency LiDAR shaded relief layer.</em>
 
 ## Seismic Station Mapping
 At the Pacific Northwest Seismic Network, I worked on GIS projects to update and present seismic station maps. The GIS projects motivated me to learn effective practices for data management and geoprocessing automation.     
@@ -71,7 +71,7 @@ Throughout my collegiate career, I pursued surveying and remote sensing coursewo
 Skill Highlights:
 
 - Collected and processed terrestrial LiDAR data of the Magnolia Bluff at Discovery Park with Riegl RiSCAN Pro (Figure 8)
-- Conducted a sUAS survey of Discovery Park and produced a structure from motion model with Pix4D (Figure 9)
+- Conducted an sUAS survey of Discovery Park and produced a structure from motion model with Pix4D (Figure 9)
 - Visualized and analyzed point cloud datasets in CloudCompare (Figure 10)
 
 <p align="center">
