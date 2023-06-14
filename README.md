@@ -13,6 +13,9 @@ Skill Highlights:
   <img src="https://github.com/brekc/Projects-Portfolio/blob/main/Images/CLS_Prob_Model.png" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/brekc/Projects-Portfolio/blob/main/Images/CLS_Prob_Overlap.png" />
+</p>
 
 
 ## Field Research at Undi Rd near Forks, WA
