@@ -22,6 +22,8 @@ Skill Highlights:
 
 
 ![](https://github.com/brekc/Projects-Portfolio/blob/main/Images/Sentinel2_ts_128A4.gif)
+
+![](https://github.com/brekc/Projects-Portfolio/blob/main/Images/Undi_Rd_FieldMap.png)
 ## Seismic Station Mapping
 At the Pacific Northwest Seismic Network, I worked on GIS projects to update and present seismic station maps. The GIS projects motivated me to learn effective practices for data management and geoprocessing automation.     
 
