@@ -10,13 +10,13 @@ Skill Highlights:
 - Created a [GitHub repository](https://github.com/brekc/Coseismic-Landslide-Probability-for-an-M9-CSZ-Earthquake-in-the-Lower-Bogachiel-River-Valley-WA) to preserve Python code and input datasets for reproducing project work 
 
 <p align="center">
-  <img src="https://github.com/brekc/Projects-Portfolio/blob/main/Images/CLS_Prob_Model.png" />
+  <img src="https://github.com/brekc/Projects-Portfolio/blob/main/images/cls_prob_model.png" />
 </p>
 <em>Figure 1: Plots of input datasets and one coseismic landslide probability model.</em>
 <p>
 </p>
 <p align="center">
-  <img src="https://github.com/brekc/Projects-Portfolio/blob/main/Images/CLS_Prob_Overlap.png" />
+  <img src="https://github.com/brekc/Projects-Portfolio/blob/main/images/cls_prob_overlap.png" />
 </p>
 <em>Figure 2: Maps showing the overlap between 30 coseismic landslide probability models for a 50% probability threshold.</em>
 
@@ -29,19 +29,19 @@ Skill Highlights:
 - Designed digital field maps with ArcGIS for data collection in Avenza Maps (Figure 5)
 - Assisted cohort members and advisors in other applied geoscience projects
 <p align="center">
-  <img src="https://github.com/brekc/Projects-Portfolio/blob/main/Images/Landsat_ts_754.gif" />
+  <img src="https://github.com/brekc/Projects-Portfolio/blob/main/images/landsat_ts_754.gif" />
 </p>
 <em>Figure 3: Timelapse series for Landsat imagery using a shortwave infrared band combination.</em>
 <p>
 </p>
 <p align="center">
-  <img src="https://github.com/brekc/Projects-Portfolio/blob/main/Images/Sentinel2_ts_128A4.gif" />
+  <img src="https://github.com/brekc/Projects-Portfolio/blob/main/images/sentinel2_ts_128a4.gif" />
 </p>
 <em>Figure 4: Timelapse series for Sentinel-2 imagery using a shortwave infrared band combination.</em>
 <p>
 </p>
 <p align="center">
-  <img src="https://github.com/brekc/Projects-Portfolio/blob/main/Images/Undi_Rd_FieldMap.png" />
+  <img src="https://github.com/brekc/Projects-Portfolio/blob/main/images/undi_rd_fieldmap.png" />
 </p>
 <em>Figure 5: Digital field map of the Undi Rd study area with NAIP imagery overlaid by a low transparency LiDAR shaded relief layer.</em>
 
@@ -55,13 +55,13 @@ Skill Highlights:
 - Worked with field engineers and research seismologists to create report maps (Figure 7)
 
 <p align="center">
-  <img src="https://github.com/brekc/Projects-Portfolio/blob/main/Images/EWA_Report_Map.png" />
+  <img src="https://github.com/brekc/Projects-Portfolio/blob/main/images/ewa_report_map.png" />
 </p>
 <em>Figure 6: Seismic station map created for a report on Eastern Washington.</em>
 <p>
 </p>
 <p align="center">
-  <img src="https://github.com/brekc/Projects-Portfolio/blob/main/Images/MSH_Color_StnMap.png" />
+  <img src="https://github.com/brekc/Projects-Portfolio/blob/main/images/msh_color_stnmap.png" />
 </p>
 <em>Figure 7: Map designed for a presentation on the 1980 Mount St. Helens eruption with historic seismic stations.</em>
 
@@ -75,18 +75,18 @@ Skill Highlights:
 - Visualized and analyzed point cloud datasets in CloudCompare (Figure 10)
 
 <p align="center">
-  <img src="https://github.com/brekc/Projects-Portfolio/blob/main/Images/TLS_2019.png" />
+  <img src="https://github.com/brekc/Projects-Portfolio/blob/main/images/tls_2019.png" />
 </p>
 <em>Figure 8: Picture of the Magnolia Bluff and a Riegl VZ-4000 taken April 2019.</em>
 <p>
 </p>
 <p align="center">
-  <img src="https://github.com/brekc/Projects-Portfolio/blob/main/Images/Pix4Dmapper_SfM.png" />
+  <img src="https://github.com/brekc/Projects-Portfolio/blob/main/images/pix4dmapper_sfm.png" />
 </p>
 <em>Figure 9: Image of a structure from motion model in Pix4Dmapper for an sUAS survey conducted during Autumn 2021.</em>
 <p>
 </p>
 <p align="center">
-  <img src="https://github.com/brekc/Projects-Portfolio/blob/main/Images/MagnoliaBluff_TLS_2019.png" />
+  <img src="https://github.com/brekc/Projects-Portfolio/blob/main/images/magnoliabluff_tls_2019.png" />
 </p>
 <em>Figure 10: Image of a LiDAR point cloud in CloudCompare of the Magnolia Bluff.</em>
