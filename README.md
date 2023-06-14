@@ -9,6 +9,10 @@ Skill Highlights:
 - Analyzed overlap between coseismic landslide probability models in QGIS
 - Created a [GitHub repository](https://github.com/brekc/Coseismic-Landslide-Probability-for-an-M9-CSZ-Earthquake-in-the-Lower-Bogachiel-River-Valley-WA) to preserve Python code and input datasets for reproducing project work 
 
+<p align="center">
+  <img src="https://github.com/brekc/Projects-Portfolio/blob/main/Images/CLS_Prob_Model.png" />
+</p>
+
 ## Field Research at Undi Rd near Forks, WA
 While attending graduate school in the Master’s in Applied Geosciences program at the University of Washington, I collected field observations with members of my cohort at Undi Rd near Forks, WA. I also had the opportunity to assist with GIS-related needs for course projects and additional research in the Lower Bogachiel River Valley.           
 
