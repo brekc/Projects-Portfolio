@@ -28,6 +28,8 @@ Skill Highlights:
 - Worked with field engineers and research seismologists to create report maps
 
 ## Surveying at Discovery Park in Seattle, WA
+Throughout my collegiate career, I pursued surveying and remote sensing coursework to learn methods for creating geospatial data. Most of my courses included fieldwork at Discovery Park in Seattle, WA, to provide hands-on surveying experience and examine geologic hazards.
+
 Skill Highlights:
 
 - Collected and processed LiDAR data of the Magnolia Bluff with Riegl RiSCAN Pro
