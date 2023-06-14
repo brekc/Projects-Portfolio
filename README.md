@@ -47,6 +47,14 @@ Skill Highlights:
 - Designed ArcMap templates to produce physical and digital maps with complex symbology
 - Worked with field engineers and research seismologists to create report maps
 
+<p align="center">
+  <img src="https://github.com/brekc/Projects-Portfolio/blob/main/Images/EWA_Report_Map.png" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/brekc/Projects-Portfolio/blob/main/Images/MSH_Color_StnMap.png" />
+</p>
+
 ## Surveying at Discovery Park in Seattle, WA
 Throughout my collegiate career, I pursued surveying and remote sensing coursework to learn methods for creating geospatial data. Most of my courses included fieldwork at Discovery Park in Seattle, WA, to provide hands-on surveying experience and examine geologic hazards.
 
