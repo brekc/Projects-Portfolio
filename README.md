@@ -70,18 +70,23 @@ Throughout my collegiate career, I pursued surveying and remote sensing coursewo
 
 Skill Highlights:
 
-- Collected and processed terrestrial LiDAR data of the Magnolia Bluff with Riegl RiSCAN Pro
-- Conducted a sUAS survey of Discovery Park and produced a structure from motion model with Pix4D
-- Visualized and analyzed point cloud datasets in CloudCompare
+- Collected and processed terrestrial LiDAR data of the Magnolia Bluff at Discovery Park with Riegl RiSCAN Pro (Figure 8)
+- Conducted a sUAS survey of Discovery Park and produced a structure from motion model with Pix4D (Figure 9)
+- Visualized and analyzed point cloud datasets in CloudCompare (Figure 10)
 
 <p align="center">
   <img src="https://github.com/brekc/Projects-Portfolio/blob/main/Images/TLS_2019.png" />
 </p>
-
+<em>Figure 8: Picture of the Magnolia Bluff and a Riegl VZ-4000 taken April 2019.</em>
+<p>
+</p>
 <p align="center">
   <img src="https://github.com/brekc/Projects-Portfolio/blob/main/Images/Pix4Dmapper_SfM.png" />
 </p>
-
+<em>Figure 9: Image of a structure from motion model in Pix4Dmapper for an sUAS survey conducted during Autumn 2021.</em>
+<p>
+</p>
 <p align="center">
   <img src="https://github.com/brekc/Projects-Portfolio/blob/main/Images/MagnoliaBluff_TLS_2019.png" />
 </p>
+<em>Figure 10: Image of a LiDAR point cloud in CloudCompare of the Magnolia Bluff.</em>
