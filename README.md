@@ -13,6 +13,13 @@ Skill Highlights:
   <img src="https://github.com/brekc/Projects-Portfolio/blob/main/Images/CLS_Prob_Model.png" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/brekc/Projects-Portfolio/blob/main/Images/Overlap_50.png" />
+</p>
+<p align="center">
+  <img src="https://github.com/brekc/Projects-Portfolio/blob/main/Images/Overlap_75.png" />
+</p>
+
 
 ## Field Research at Undi Rd near Forks, WA
 While attending graduate school in the Master’s in Applied Geosciences program at the University of Washington, I collected field observations with members of my cohort at Undi Rd near Forks, WA. I also had the opportunity to assist with GIS-related needs for course projects and additional research in the Lower Bogachiel River Valley.           
