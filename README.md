@@ -63,3 +63,15 @@ Skill Highlights:
 - Collected and processed terrestrial LiDAR data of the Magnolia Bluff with Riegl RiSCAN Pro
 - Conducted a sUAS survey of Discovery Park and produced a structure from motion model with Pix4D
 - Visualized and analyzed point cloud datasets in CloudCompare
+
+<p align="center">
+  <img src="https://github.com/brekc/Projects-Portfolio/blob/main/Images/TLS_2019.png" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/brekc/Projects-Portfolio/blob/main/Images/Pix4Dmapper_SfM.png" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/brekc/Projects-Portfolio/blob/main/Images/MagnoliaBluff_TLS_2019.png" />
+</p>
