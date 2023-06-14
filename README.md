@@ -17,6 +17,12 @@ Skill Highlights:
 - Created timelapse series of the Bogachiel River and active Undi Rd landslide with the Google Earth Engine Python API
 - Designed digital field maps with ArcGIS for data collection in Avenza Maps
 - Assisted cohort members and advisors in other applied geoscience projects
+<p align="center">
+  <img src="https://github.com/brekc/Projects-Portfolio/blob/main/Images/Landsat_ts_754.gif" />
+</p>
+
+
+
 
 ![](https://github.com/brekc/Projects-Portfolio/blob/main/Images/Landsat_ts_754.gif)
 
