@@ -10,11 +10,13 @@ Skill Highlights:
 - Created a [GitHub repository](https://github.com/brekc/Coseismic-Landslide-Probability-for-an-M9-CSZ-Earthquake-in-the-Lower-Bogachiel-River-Valley-WA) to preserve Python code and input datasets for reproducing project work 
 
 ## Field Research at Undi Rd near Forks, WA
+While attending graduate school in the Master’s in Applied Geosciences program at the University of Washington, I collected field observations with members of my cohort at Undi Rd near Forks, WA. I also had the opportunity to assist with GIS-related needs for course projects and additional research in the Lower Bogachiel River Valley.           
+
 Skill Highlights:
 
 - Created timelapse series of the Bogachiel River and active Undi Rd landslide with the Google Earth Engine Python API
 - Designed digital field maps with ArcGIS for data collection in Avenza Maps
-- Collaborated with cohort members and advisors in other geoscience-focused projects
+- Assisted cohort members and advisors in other applied geoscience projects
 
 
 ## Seismic Station Mapping
