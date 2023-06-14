@@ -51,16 +51,19 @@ At the Pacific Northwest Seismic Network, I worked on GIS projects to update and
 Skill Highlights:
 
 - Developed methods for updating geodatabases and station maps with ArcGIS and Python
-- Designed ArcMap templates to produce physical and digital maps with complex symbology
-- Worked with field engineers and research seismologists to create report maps
+- Designed ArcMap templates to produce physical and digital maps with complex symbology (Figure 6)
+- Worked with field engineers and research seismologists to create report maps (Figure 7)
 
 <p align="center">
   <img src="https://github.com/brekc/Projects-Portfolio/blob/main/Images/EWA_Report_Map.png" />
 </p>
-
+<em>Figure 6: Seismic station map created for a report on Eastern Washington.</em>
+<p>
+</p>
 <p align="center">
   <img src="https://github.com/brekc/Projects-Portfolio/blob/main/Images/MSH_Color_StnMap.png" />
 </p>
+<em>Figure 7: Map designed for a presentation on the 1980 Mount St. Helens eruption with historic seismic stations.</em>
 
 ## Surveying at Discovery Park in Seattle, WA
 Throughout my collegiate career, I pursued surveying and remote sensing coursework to learn methods for creating geospatial data. Most of my courses included fieldwork at Discovery Park in Seattle, WA, to provide hands-on surveying experience and examine geologic hazards.
