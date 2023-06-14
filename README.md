@@ -10,13 +10,13 @@ Skill Highlights:
 - Created a [GitHub repository](https://github.com/brekc/Coseismic-Landslide-Probability-for-an-M9-CSZ-Earthquake-in-the-Lower-Bogachiel-River-Valley-WA) to preserve Python code and input datasets for reproducing project work 
 
 <p align="center">
-  <img src="https://github.com/brekc/Projects-Portfolio/blob/main/images/cls_prob_model.PNG" />
+  <img src="https://github.com/brekc/Projects-Portfolio/blob/main/images/cls_prob_model.png" />
 </p>
 <em>Figure 1: Plots of input datasets and one coseismic landslide probability model.</em>
 <p>
 </p>
 <p align="center">
-  <img src="https://github.com/brekc/Projects-Portfolio/blob/main/images/cls_prob_overlap.PNG" />
+  <img src="https://github.com/brekc/Projects-Portfolio/blob/main/images/cls_prob_overlap.png" />
 </p>
 <em>Figure 2: Maps showing the overlap between 30 coseismic landslide probability models for a 50% probability threshold.</em>
 
