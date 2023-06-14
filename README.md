@@ -2,6 +2,7 @@
 This repository presents a collection of projects showcasing my experience and GIS skillsets
 ## Coseismic Landslide Probability Modeling
 For my master's capstone project, I estimated coseismic landslide probability for an M9 Cascadia Subduction Zone Earthquake in the Lower Bogachiel River Valley near Forks, WA. I calculated coseismic landslide probability based on [30 earthquake scenarios](https://pubs.geoscienceworld.org/ssa/bssa/article-abstract/108/5A/2347/544772/Broadband-Synthetic-Seismograms-for-Magnitude-9?redirectedFrom=fulltext) and a [USGS empirical model](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2017JF004494). 
+
 Skill Highlights:
 
 - Wrote Python scripts for calculating coseismic landslide probability
