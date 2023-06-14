@@ -18,8 +18,9 @@ Skill Highlights:
 - Designed digital field maps with ArcGIS for data collection in Avenza Maps
 - Assisted cohort members and advisors in other applied geoscience projects
 
-
 ## Seismic Station Mapping
+At the Pacific Northwest Seismic Network, I worked on GIS projects to update and present seismic station maps. The GIS projects motivated me to learn effective practices for data management and geoprocessing automation.     
+
 Skill Highlights:
 
 - Developed methods for updating geodatabases and station maps with ArcGIS and Python
