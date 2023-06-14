@@ -11,11 +11,11 @@ Skill Highlights:
 
 ![](/images/cls_prob_model.png)
 
-Figure 1: Plots of input datasets and one coseismic landslide probability model.
+*Figure 1: Plots of input datasets and one coseismic landslide probability model.*
 
 ![](/images/cls_prob_overlap.png)
 
-Figure 2: Maps showing the overlap between 30 coseismic landslide probability models for a 50% probability threshold.
+*Figure 2: Maps showing the overlap between 30 coseismic landslide probability models for a 50% probability threshold.*
 
 ## Field Research at Undi Rd near Forks, WA
 While attending graduate school in the Master’s in Applied Geosciences program at the University of Washington, I collected field observations with members of my cohort at Undi Rd near Forks, WA. I also had the opportunity to assist with GIS-related needs for course projects and additional research in the Lower Bogachiel River Valley.           
@@ -28,15 +28,15 @@ Skill Highlights:
 
 ![](/images/landsat_ts_754.gif)
 
-Figure 3: Timelapse series for Landsat imagery using a shortwave infrared band combination.
+*Figure 3: Timelapse series for Landsat imagery using a shortwave infrared band combination.*
 
 ![](/images/sentinel2_ts_128a4.gif)
 
-Figure 4: Timelapse series for Sentinel-2 imagery using a shortwave infrared band combination.
+*Figure 4: Timelapse series for Sentinel-2 imagery using a shortwave infrared band combination.*
 
 ![](/images/undi_rd_fieldmap.png)
 
-Figure 5: Digital field map of the Undi Rd study area with NAIP imagery overlaid by a low transparency LiDAR shaded relief layer.
+*Figure 5: Digital field map of the Undi Rd study area with NAIP imagery overlaid by a low transparency LiDAR shaded relief layer.*
 
 ## Seismic Station Mapping
 At the Pacific Northwest Seismic Network, I worked on GIS projects to update and present seismic station maps. The GIS projects motivated me to learn effective practices for data management and geoprocessing automation.     
@@ -49,11 +49,11 @@ Skill Highlights:
   
 ![](/images/ewa_report_map.png)
 
-Figure 6: Seismic station map created for a report on Eastern Washington.
+*Figure 6: Seismic station map created for a report on Eastern Washington.*
 
 ![](/images/msh_color_stnmap.png)
 
-Figure 7: Map designed for a presentation on the 1980 Mount St. Helens eruption with historic seismic stations.
+*Figure 7: Map designed for a presentation on the 1980 Mount St. Helens eruption with historic seismic stations.*
 
 ## Surveying at Discovery Park in Seattle, WA
 Throughout my collegiate career, I pursued surveying and remote sensing coursework to learn methods for creating geospatial data. Most of my courses included fieldwork at Discovery Park in Seattle, WA, to provide hands-on surveying experience and examine geologic hazards.
@@ -66,12 +66,12 @@ Skill Highlights:
 
 ![](/images/tls_2019.png)
 
-Figure 8: Picture of the Magnolia Bluff and a Riegl VZ-4000 taken April 2019.
+*Figure 8: Picture of the Magnolia Bluff and a Riegl VZ-4000 taken April 2019.*
 
 ![](/images/pix4dmapper_sfm.png)
 
-Figure 9: Image of a structure from motion model in Pix4Dmapper for an sUAS survey conducted during Autumn 2021.
+*Figure 9: Image of a structure from motion model in Pix4Dmapper for an sUAS survey conducted during Autumn 2021.*
 
 ![](/images/magnoliabluff_tls_2019.png)
 
-Figure 10: Image of a LiDAR point cloud in CloudCompare of the Magnolia Bluff.
+*Figure 10: Image of a LiDAR point cloud in CloudCompare of the Magnolia Bluff.*
