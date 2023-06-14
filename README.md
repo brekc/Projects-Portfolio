@@ -16,7 +16,7 @@ Skill Highlights:
 <p>
 </p>
 <p align="center">
-  ![](https://github.com/brekc/Projects-Portfolio/blob/main/images/cls_prob_overlap.png)
+![](https://github.com/brekc/Projects-Portfolio/blob/main/images/cls_prob_overlap.png)
 </p>
 <em>Figure 2: Maps showing the overlap between 30 coseismic landslide probability models for a 50% probability threshold.</em>
 
