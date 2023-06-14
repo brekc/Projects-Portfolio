@@ -13,7 +13,8 @@ Skill Highlights:
   <img src="https://github.com/brekc/Projects-Portfolio/blob/main/Images/CLS_Prob_Model.png" />
 </p>
 <em>Figure 1: Plots of input datasets and one coseismic landslide probability model.</em>
-<br />
+<p>
+</p>
 <p align="center">
   <img src="https://github.com/brekc/Projects-Portfolio/blob/main/Images/CLS_Prob_Overlap.png" />
 </p>
