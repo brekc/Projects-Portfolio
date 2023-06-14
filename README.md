@@ -32,6 +32,6 @@ Throughout my collegiate career, I pursued surveying and remote sensing coursewo
 
 Skill Highlights:
 
-- Collected and processed LiDAR data of the Magnolia Bluff with Riegl RiSCAN Pro
+- Collected and processed terrestrial LiDAR data of the Magnolia Bluff with Riegl RiSCAN Pro
 - Conducted a sUAS survey of Discovery Park and produced a structure from motion model with Pix4D
 - Visualized and analyzed point cloud datasets in CloudCompare
