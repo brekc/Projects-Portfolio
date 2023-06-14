@@ -5,18 +5,18 @@ For my master's capstone project, I estimated coseismic landslide probability fo
 
 Skill Highlights:
 
-- Wrote Python scripts for calculating coseismic landslide probability
-- Analyzed overlap between coseismic landslide probability models in QGIS
+- Wrote Python scripts for calculating coseismic landslide probability (Figure 1)
+- Analyzed overlap between coseismic landslide probability models in QGIS (Figure 2)
 - Created a [GitHub repository](https://github.com/brekc/Coseismic-Landslide-Probability-for-an-M9-CSZ-Earthquake-in-the-Lower-Bogachiel-River-Valley-WA) to preserve Python code and input datasets for reproducing project work 
 
 <p align="center">
   <img src="https://github.com/brekc/Projects-Portfolio/blob/main/Images/CLS_Prob_Model.png" />
 </p>
-
+**Figure 1: Plots of input datasets and one coseismic landslide probability model.**
 <p align="center">
   <img src="https://github.com/brekc/Projects-Portfolio/blob/main/Images/CLS_Prob_Overlap.png" />
 </p>
-
+**Figure 2: Maps showing overlap between 30 coseismic landslide probability models for a 50% probability threshold.**
 
 ## Field Research at Undi Rd near Forks, WA
 While attending graduate school in the Master’s in Applied Geosciences program at the University of Washington, I collected field observations with members of my cohort at Undi Rd near Forks, WA. I also had the opportunity to assist with GIS-related needs for course projects and additional research in the Lower Bogachiel River Valley.           
