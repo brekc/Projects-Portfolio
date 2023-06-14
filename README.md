@@ -7,7 +7,7 @@ Skill Highlights:
 
 - Wrote Python scripts for calculating coseismic landslide probability
 - Analyzed overlap between coseismic landslide probability models in QGIS
-- Created a GitHub repository to preserve Python code and input datasets for reproducing project work 
+- Created a [GitHub repository](https://github.com/brekc/Coseismic-Landslide-Probability-for-an-M9-CSZ-Earthquake-in-the-Lower-Bogachiel-River-Valley-WA) to preserve Python code and input datasets for reproducing project work 
 
 ## Field Research at Undi Rd near Forks, WA
 Skill Highlights:
